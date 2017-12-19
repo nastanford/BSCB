@@ -1,0 +1,18 @@
+{
+  "name": "bscb",
+  "version": "1.0.0",
+  "description": "Example BootStrap ColdBox App using NPM",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Stanford Sr",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
