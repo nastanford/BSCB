@@ -42,7 +42,6 @@ component{
 	public boolean function onRequestStart( string targetPage ){
 		// Process ColdBox Request
 		application.cbBootstrap.onRequestStart( arguments.targetPage );
-		prc.SiteMessage ="This is a test";
 		return true;
 	}
 
