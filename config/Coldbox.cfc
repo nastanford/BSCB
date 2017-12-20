@@ -6,7 +6,7 @@
 		// coldbox directives
 		coldbox = {
 			//Application Setup
-			appName 				= "Your app name here",
+			appName 				= "Simple Blog",
 			eventName 				= "event",
 
 			//Development Settings
