@@ -5,7 +5,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-preview">
             <a href="post.html">
-              <h2 class="post-title"> ABC
+              <h2 class="post-title">
                 Man must explore, and this is exploration at its greatest
               </h2>
               <h3 class="post-subtitle">

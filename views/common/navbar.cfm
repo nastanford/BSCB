@@ -10,13 +10,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="#event.buildLink('main.index')#">About</a>
+              <a class="nav-link" href="#event.buildLink('main.about')#">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#event.buildLink('main.index')#">Sample Post</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#event.buildLink('main.index')#">Contact</a>
+              <a class="nav-link" href="#event.buildLink('main.contact')#">Contact</a>
             </li>
           </ul>
         </div>

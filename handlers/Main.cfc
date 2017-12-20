@@ -4,7 +4,21 @@ component extends="coldbox.system.EventHandler"{
 	// Default Action
 	function index(event,rc,prc){
 		prc.pageTitle = "Home";
+		prc.welcomeMessage = "Hello, welcome to Simple Blog!";
+		prc.bgImage = "home-bg.jpg";
 		event.setView("main/index");
+	}
+
+	function contact(event,rc,prc){
+		prc.pageTitle = "Contact";
+		prc.bgImage = "contact-bg.jpg";
+		event.setView("main/contact");
+	}
+
+	function about(event,rc,prc){
+		prc.pageTitle = "About";
+		prc.bgImage = "about-bg.jpg";
+		event.setView("main/about");
 	}
 
 

@@ -1,6 +1,6 @@
 <cfoutput>
     <!-- Page Header -->
-    <header class="masthead" style="background-image: url('/templates/startbootstrap-clean-blog-gh-pages/img/home-bg.jpg')">
+    <header class="masthead" style="background-image: url('/templates/startbootstrap-clean-blog-gh-pages/img/#prc.bgImage#')">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
